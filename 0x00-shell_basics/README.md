@@ -1,1 +1,1 @@
-question 3 displaying file in long format
+Display current directory contents, including hidden files
