@@ -1,1 +1,1 @@
- this is question 1 display content
+this is question 2 changing directory to home
