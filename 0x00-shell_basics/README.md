@@ -1,1 +1,1 @@
-question 5 displaying the directory content
+question 6 creating directory
