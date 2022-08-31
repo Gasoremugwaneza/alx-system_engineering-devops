@@ -1,1 +1,1 @@
-this is question 2 changing directory to home
+question 3 displaying file in long format
