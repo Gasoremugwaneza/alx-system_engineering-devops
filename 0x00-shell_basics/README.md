@@ -1,1 +1,1 @@
-question 7 moving file
+question 8 deleting betty file
