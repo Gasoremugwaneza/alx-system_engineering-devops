@@ -1,1 +1,1 @@
-excusion permission to all user
+creating directory with different permission to the users
