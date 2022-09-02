@@ -1,1 +1,1 @@
-giving different permission to the user
+script for mode to user
