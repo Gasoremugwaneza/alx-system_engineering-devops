@@ -1,1 +1,1 @@
-i hate bin
+Letters only please
