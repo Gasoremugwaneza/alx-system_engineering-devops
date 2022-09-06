@@ -1,1 +1,1 @@
-Global variables
+listing all variable
