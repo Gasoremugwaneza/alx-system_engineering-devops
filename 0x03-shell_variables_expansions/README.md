@@ -1,1 +1,1 @@
-creating variable
+creating grobal variable
